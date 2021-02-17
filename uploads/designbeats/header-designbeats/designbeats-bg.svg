@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="633px" height="817px" viewBox="0 0 633 817" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>designbeats-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="designbeats-bg">
+            <rect id="Mask" fill="#16E7AF" x="5.68434189e-14" y="0" width="633" height="817"></rect>
+            <path d="M573.789976,100.737331 C573.789976,78.2387242 555.527682,60 533,60 L533,100.737331" id="Path" fill="#FFFFFF" transform="translate(553.394988, 80.368665) rotate(-180.000000) translate(-553.394988, -80.368665) "></path>
+            <path d="M298.197931,277.395512 L555.197931,277.395512 C555.197931,419.551496 440.227444,534.854684 298.197931,535.393615 C298.031228,535.395512 297.864561,535.395354 297.697931,535.395038 C297.531302,535.395354 297.364635,535.395512 297.197931,535.395512 C155.168418,534.854684 40.1979313,419.551496 40.1979313,277.395512 L298.197931,277.395512 Z" id="Combined-Shape-Copy-12" fill="#13C2AA" transform="translate(298.222504, 406.450427) scale(-1, 1) rotate(-90.000000) translate(-298.222504, -406.450427) "></path>
+            <rect id="Rectangle-Copy-8" fill="#000000" x="91" y="683" width="12" height="49"></rect>
+            <rect id="Rectangle-Copy-9" fill="#FFFFFF" x="121" y="699" width="12" height="33"></rect>
+        </g>
+    </g>
+</svg>

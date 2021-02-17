@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="633px" height="817px" viewBox="0 0 633 817" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>kendu-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kendu-bg">
+            <rect id="Mask" fill="#51BFFF" x="1.70530257e-13" y="0" width="633" height="817"></rect>
+            <path d="M129.586228,355.374328 L357.586228,355.374328 L357.586228,583.374328 C231.665306,583.374328 129.586228,481.295251 129.586228,355.374328 Z M586.688826,355.374328 C586.688826,481.295251 484.609749,583.374328 358.688826,583.374328 L358.688826,355.374328 L586.688826,355.374328 Z" id="Combined-Shape-Copy-12" fill="#2E00AF" transform="translate(358.341828, 469.341828) scale(-1, 1) rotate(-315.000000) translate(-358.341828, -469.341828) "></path>
+            <path d="M91,720 C101.49341,720 110,711.045695 110,700 C110,688.954305 101.49341,680 91,680" id="Path-Copy-9" stroke="#FFFFFF" stroke-width="12.9326756"></path>
+            <polygon id="K" fill="#FFFFFF" fill-rule="nonzero" opacity="0.183965774" points="557.692953 137.045161 536.358083 110.020993 536.358083 137.045161 524.979486 137.045161 524.979486 77.3075269 536.358083 77.3075269 536.358083 103.857587 556.270628 77.3075269 569.545658 77.3075269 547.262572 106.702236 570.967983 137.045161"></polygon>
+            <rect id="Rectangle-Copy-8" fill="#2B1490" x="525" y="77" width="12" height="60"></rect>
+        </g>
+    </g>
+</svg>

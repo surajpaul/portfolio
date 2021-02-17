@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="634px" height="817px" viewBox="0 0 634 817" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>bbvawallet-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440" transform="translate(-403.000000, 0.000000)">
+            <g id="bbvawallet-bg" transform="translate(403.000000, 0.000000)">
+                <rect id="Mask" fill="#2E05D4" x="0.428571429" y="0" width="633" height="817"></rect>
+                <path d="M291.336416,289.669837 L548.336416,289.669837 C548.336416,431.825821 433.365929,547.129009 291.336416,547.66794 C291.169712,547.669837 291.003045,547.669679 290.836416,547.669363 C290.669786,547.669679 290.503119,547.669837 290.336416,547.669837 C148.306903,547.129009 33.3364158,431.825821 33.3364158,289.669837 L291.336416,289.669837 Z" id="Combined-Shape-Copy-12" fill="#2A97FF" transform="translate(291.222504, 418.450427) scale(-1, 1) rotate(-90.000000) translate(-291.222504, -418.450427) "></path>
+                <path d="M92,132 C103.59798,132 113,122.59798 113,111 C113,99.4020203 103.59798,90 92,90" id="Path-Copy" fill="#2A97FF" transform="translate(102.500000, 111.000000) rotate(-540.000000) translate(-102.500000, -111.000000) "></path>
+                <path d="M113,132 C124.59798,132 134,122.59798 134,111 C134,99.4020203 124.59798,90 113,90" id="Path-Copy-5" fill="#FFFFFF" transform="translate(123.500000, 111.000000) rotate(-360.000000) translate(-123.500000, -111.000000) "></path>
+                <rect id="Rectangle-Copy-8" fill="#FFFFFF" x="514" y="694" width="12" height="49"></rect>
+                <rect id="Rectangle-Copy-10" fill="#2A97FF" x="542" y="694" width="12" height="33"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
